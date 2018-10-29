@@ -1,4 +1,4 @@
-# epitech-clion
+# epitech-clion-2018
 
 As no update is made for the new coding style, I take over QTimort's repo;
 
@@ -36,26 +36,3 @@ the epitech header, you have to copy paste it manually.
 exactly 19 line breaks = 20 lines.
 - When including the first include in a file, check that CLion didnt put 
 the include before the Epitech Header.
-
-# Old Installation
-
-**Code Style**<br />
-*file -> settings -> code style -> manage... -> import*
-- Import "Epitech_C_old.xml"
-
-**Epitech Header**<br />
-*file -> settings -> code style -> File and Code Templates -> Includes*
-- Add an include for c/h Extension and paste the content of 
-Header_Template_old.txt in it.
-- Replace 'nom' and 'prenom' with yours.
-
-# Old Known problem:
-- When reformating the file, variable and function aren't aligned 
-together, you have to do it manually.
-- The header is semi-hard coded since there isn't a "PATH" variable and 
-the last modified field isn't updated. (but it shouldn't affect the 
-norm)
-- When creating a new project, the default main generated doesn't have 
-the epitech header, you have to copy paste it manually.
-- Be carefull when declaring a variable and a function, Clion 
-automatically put a space instead of a tab, you have to fix it manually.
